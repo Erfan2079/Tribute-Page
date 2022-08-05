@@ -1,0 +1,20 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+#image {
+    display: block;
+    width: 100vw;
+    align-self: center;
+}
+#tribute-info{
+text-align: left;
+padding:0 2em;
+}
+#img-caption{
+}
+h1{
+    font-weight: 3vw;
+}
